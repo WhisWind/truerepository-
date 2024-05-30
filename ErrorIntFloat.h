@@ -17,7 +17,6 @@ int convertStringInt(string str)
         {
             n++;
         }
-        
     }
     
     if (n == str.length()){
@@ -56,7 +55,6 @@ float convertStringFloat(string str)
         {
             point++;
         }
-        
     }
     if ((n+point) == str.length()){
         
