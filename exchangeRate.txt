@@ -1,0 +1,11 @@
+10
+AED UAE CVJ231 fils 10 26.52
+AZN Azerbaijan FDV547 gapicam 100 57.30
+CHF Switzeriand DNC932 desimov 100 107.08
+CNY China BKD642 czao 10 13.35
+CZK Czech BVL618 vlsa 20 4.19
+DKK Denmark VNO156 tfcva 35 13.769
+EUR Germany VSA912 ioccs 50 103.16
+GBP Great_Britain VNJ954 jkld 20 118.82
+PLN Poland KLV915 lvcn 100 22.33
+SGD Singapur KVL836 kolcxa 120 71.37
